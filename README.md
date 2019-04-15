@@ -1,4 +1,4 @@
-# Mosquitto
+# SAMBA
 Setting up a Samba server inside a Docker container.
 
 ## Getting started
